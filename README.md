@@ -42,6 +42,7 @@ The latest development version can be installed manually with these commands
 
         git clone https://github.com/OttoAllmendinger/gnome-shell-bitcoin-markets.git
         cd gnome-shell-bitcoin-markets
+        make all
         make install
 
 Then go to https://extensions.gnome.org/local/ to turn on the extension or use
